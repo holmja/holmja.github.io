@@ -2,6 +2,9 @@
 
 ### About Joshua
 
+#### Contact Information
+
+Joshua can be reach by email at <a href="mailto: holmja@outlook.com">holmja@outlook.com</a>.
 
 #### Published Writing
 
