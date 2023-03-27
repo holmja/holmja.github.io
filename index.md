@@ -316,7 +316,9 @@ Holm, Joshua Allen. 2013. “No Major Coding Experience Required: Gaming and Mor
 
 ———. 2022g. “Fedora 37 Workstation & Silverblue Review.” DistroWatch.com. November 21, 2022. [https://distrowatch.com/weekly.php?issue=20221121](https://distrowatch.com/weekly.php?issue=20221121).
 
-———. 2023. “Picking a Favourite.” DistroWatch.com. January 2, 2023. [https://distrowatch.com/weekly.php?issue=20230102](https://distrowatch.com/weekly.php?issue=20230102).
+———. 2023a. “Picking a Favourite.” DistroWatch.com. January 2, 2023. [https://distrowatch.com/weekly.php?issue=20230102](https://distrowatch.com/weekly.php?issue=20230102).
+
+———. 2023b. “Siduction 2022.1.1 Review.” DistroWatch.Com. March 27, 2023. [https://distrowatch.com/weekly.php?issue=20230327](https://distrowatch.com/weekly.php?issue=20230327).
 
 Holm, Joshua Allen, and Melanie Chernoff. 2015. “What Is Open Access?” Opensource.com. February 20, 2015. [https://opensource.com/resources/what-open-access](https://opensource.com/resources/what-open-access).
 
@@ -325,4 +327,3 @@ Pritchett, Lauren, Mike Bursell, Joshua Allen Holm, and Don Watkins. 2019. “Wh
 Watkins, Don, and Joshua Allen Holm. 2021. “How a College Student Founded a Free and Open Source Operating System.” Opensource.com. June 30, 2021. [https://opensource.com/article/21/6/freedos-founder](https://opensource.com/article/21/6/freedos-founder).
 
 Wike Huger, Jen, Alan Formy-Duval, Chris Hermansen, Joshua Allen Holm, Don Watkins, and Moshe Zadka. 2021. “What Do We Call Post-Modern System Administrators?” Opensource.com. July 30, 2021. [https://opensource.com/article/21/7/system-administrators](https://opensource.com/article/21/7/system-administrators).
-
