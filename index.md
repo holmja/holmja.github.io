@@ -2,6 +2,8 @@
 
 ### About Joshua
 
+Hi, I'm Joshua. I'm passionate about open source, open access, and open educational resources. I have a strong interest in Linux and technology and how they can be used to improve education. I believe that by making knowledge freely available, we can make the world a better place. I'm always looking for new ways to share information and create more accessible learning opportunities for everyone.
+
 #### Contact Information
 
 Joshua can be reach by email at <a href="mailto: holmja@outlook.com">holmja@outlook.com</a>.
