@@ -6,7 +6,7 @@ Hi, I'm Joshua. I'm passionate about open source, open access, and open educatio
 
 #### Contact Information
 
-Joshua can be reach by email at <a href="mailto: holmja@outlook.com">holmja@outlook.com</a>.
+You reach me by email at <a href="mailto: holmja@outlook.com">holmja@outlook.com</a>.
 
 #### Published Writing
 
