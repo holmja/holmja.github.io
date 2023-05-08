@@ -320,9 +320,9 @@ Holm, Joshua Allen. 2013. “No Major Coding Experience Required: Gaming and Mor
 
 ———. 2023a. “Picking a Favourite.” DistroWatch.com. January 2, 2023. [https://distrowatch.com/weekly.php?issue=20230102](https://distrowatch.com/weekly.php?issue=20230102).
 
-———. 2023b. “Siduction 2022.1.1 Review.” DistroWatch.Com. March 27, 2023. [https://distrowatch.com/weekly.php?issue=20230327](https://distrowatch.com/weekly.php?issue=20230327).
+———. 2023b. “Siduction 2022.1.1 Review.” DistroWatch.com. March 27, 2023. [https://distrowatch.com/weekly.php?issue=20230327](https://distrowatch.com/weekly.php?issue=20230327).
 
-———. 2023c. “Fedora 38 Workstation Review.” DistroWatch.Com. May 8, 2023. [https://distrowatch.com/weekly.php?issue=20230508](https://distrowatch.com/weekly.php?issue=20230508).
+———. 2023c. “Fedora 38 Workstation Review.” DistroWatch.com. May 8, 2023. [https://distrowatch.com/weekly.php?issue=20230508](https://distrowatch.com/weekly.php?issue=20230508).
 
 Holm, Joshua Allen, and Melanie Chernoff. 2015. “What Is Open Access?” Opensource.com. February 20, 2015. [https://opensource.com/resources/what-open-access](https://opensource.com/resources/what-open-access).
 
