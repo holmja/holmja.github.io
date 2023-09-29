@@ -324,6 +324,8 @@ Holm, Joshua Allen. 2013. “No Major Coding Experience Required: Gaming and Mor
 
 ———. 2023c. “Fedora 38 Workstation Review.” DistroWatch.com. May 8, 2023. [https://distrowatch.com/weekly.php?issue=20230508](https://distrowatch.com/weekly.php?issue=20230508).
 
+———. 2023d. “Bodhi Linux 7.0.0 Review.” DistroWatch.com. September 18, 2023. [https://distrowatch.com/weekly.php?issue=20230918](https://distrowatch.com/weekly.php?issue=20230918).
+
 Holm, Joshua Allen, and Melanie Chernoff. 2015. “What Is Open Access?” Opensource.com. February 20, 2015. [https://opensource.com/resources/what-open-access](https://opensource.com/resources/what-open-access).
 
 Pritchett, Lauren, Mike Bursell, Joshua Allen Holm, and Don Watkins. 2019. “What’s in an Open Source Name?” Opensource.com. October 4, 2019. [https://opensource.com/article/19/10/open-source-name-origins](https://opensource.com/article/19/10/open-source-name-origins).
